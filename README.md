@@ -34,8 +34,8 @@
 
 
   <div display = "flex">
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imukeshkaushal&show_icons=true&locale=en" alt="imukeshkaushal" width = "200"/>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imukeshkaushal&" alt="imukeshkaushal" width = "200" />
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imukeshkaushal&show_icons=true&locale=en" alt="imukeshkaushal" width = "450"/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imukeshkaushal&" alt="imukeshkaushal" width = "470" />
 </p>
   </div>
 
