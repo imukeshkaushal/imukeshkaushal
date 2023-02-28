@@ -34,18 +34,20 @@
 
 div align="center">
   <div style="display: flex;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" style="vertical-align: top;" />
-    <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" />
+
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=imukeshkaushal&show_icons=true&locale=en" alt="imukeshkaushal" style="vertical-align: top;"/>
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imukeshkaushal&" alt="imukeshkaushal" />
+   
   </div>
 </div>
 
-
+<!-- 
   <div display = "flex" width = "50%" margin = "auto">
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imukeshkaushal&show_icons=true&locale=en" alt="imukeshkaushal" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imukeshkaushal&" alt="imukeshkaushal" />
 </p>
   </div>
-
+ -->
 
  
  <a href="https://github.com/imukeshkaushal/github-readme-activity-graph"><img alt="imukeshkaushal Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=imukeshkaushal&bg_color=FFFFFF&color=000000&line=0066FF&point=FF9900&hide_border=true" /></a>
