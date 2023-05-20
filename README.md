@@ -40,7 +40,3 @@
   </div>
 
 
- 
- <a href="https://github.com/imukeshkaushal/github-readme-activity-graph"><img alt="imukeshkaushal Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=imukeshkaushal&bg_color=FFFFFF&color=000000&line=0066FF&point=FF9900&hide_border=true" /></a>
-
-<!--   <p>&nbsp;</p> -->
